@@ -1,0 +1,108 @@
+11/15 11:10 pm pySheets.log.txt: abc def 2
+11/15 11:25 pm pySheets.log.txt: abc def 11/15 11:25 pm
+11/16 12:37 am pySheets.log.txt: DFB_to_XL:  Wrote to test.xls
+11/16 12:37 am pySheets.log.txt: xl_to_DFB:  Reading test.xls
+11/16 12:27 pm pySheets.log.txt: abc def 11/16 12:27 pm
+11/16 12:27 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x10a053630>
+11/16 12:27 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x10a199f98>
+11/16 12:28 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x10a208828>
+11/16 12:35 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x10a0ecba8>
+11/16 12:36 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x10a3dd5c0>
+11/16 12:36 pm pySheets.log.txt: abc def 11/16 12:36 pm
+11/16 12:36 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x10ad2e710>
+11/16 12:44 pm pySheets.log.txt: abc def 11/16 12:44 pm
+11/16 12:44 pm pySheets.log.txt: abc def 11/16 12:44 pm
+11/16 12:53 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x113682978>
+11/16 12:53 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x114635e10>
+11/16 12:53 pm pySheets.log.txt: xl_to_DFB:  Reading test2.xls
+11/16 12:54 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x1145aca90>
+11/16 12:56 pm pySheets.log.txt: DFB_to_XL:  Wrote to test.xls
+11/16 12:56 pm pySheets.log.txt: xl_to_DFB:  Reading test.xls
+11/16 12:56 pm pySheets.log.txt: DFB_to_XL:  Wrote to test.xls
+11/16 12:56 pm pySheets.log.txt: xl_to_DFB:  Reading test.xls
+11/16 12:56 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x114cf2d68>
+11/16 12:56 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x114b97f28>
+11/16 12:56 pm pySheets.log.txt: xl_to_DFB:  Reading test2.xls
+11/16 12:57 pm pySheets.log.txt: xl_to_DFB:  Reading test.xls
+11/16 12:57 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x114d65da0>
+11/16 12:57 pm pySheets.log.txt: DFB_to_GS: updated pySheetsTester
+11/16 12:57 pm pySheets.log.txt: get_DFB:  working on https://docs.google.com/spreadsheets/d/1-EAzjpHbbaD6YWt0YGE2Vu3rXRXAvQIS4mq7uxKQmCs/edit#gid=0
+11/16 12:57 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x114b97cf8>
+11/16 12:58 pm pySheets.log.txt: xl_to_DFB:  Reading df2gSheetTester.xlsx
+11/16 12:59 pm pySheets.log.txt: xl_to_DFB:  Reading df2gSheetTester.xlsx
+11/16 01:02 pm pySheets.log.txt: write_DFB processing dict_keys(['Sheet1', 'Sheet2']) test.xls
+11/16 01:02 pm pySheets.log.txt: DFB_to_XL:  Wrote to test.xls
+11/16 01:02 pm pySheets.log.txt: write_DFB processing dict_keys(['Sheet1', 'Sheet2']) https://docs.google.com/spreadsheets/d/1y19PMDTSqZkpW3UcwqG81tQMAH_g91iIqjrmBN_jTRw/edit#gid=1856401945
+11/16 01:02 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x114f32a90>
+11/16 01:02 pm pySheets.log.txt: DFB_to_GS: updated pySheetsTester
+11/16 01:03 pm pySheets.log.txt: write_DFB processing dict_keys(['Sheet1', 'Sheet2']) test.xls
+11/16 01:03 pm pySheets.log.txt: DFB_to_XL:  Wrote to test.xls
+11/16 01:03 pm pySheets.log.txt: write_DFB processing dict_keys(['Sheet1', 'Sheet2']) https://docs.google.com/spreadsheets/d/1y19PMDTSqZkpW3UcwqG81tQMAH_g91iIqjrmBN_jTRw/edit#gid=1856401945
+11/16 01:03 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x114f495c0>
+11/16 01:03 pm pySheets.log.txt: DFB_to_GS: updated pySheetsTester
+12/01 12:53 pm pySheets.log.txt: abc def 12/01 12:53 pm
+12/01 12:53 pm pySheets.log.txt: abc def 12/01 12:53 pm
+12/01 12:53 pm pySheets.log.txt: DFB_to_XL:  Wrote to test.xls
+12/01 12:53 pm pySheets.log.txt: xl_to_DFB:  Reading test.xls
+12/01 12:53 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x11a6c3310>
+12/01 12:53 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x119aa8d90>
+12/01 12:53 pm pySheets.log.txt: xl_to_DFB:  Reading test.xls
+12/01 12:53 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x1092b4690>
+12/01 12:53 pm pySheets.log.txt: DFB_to_GS: updated pySheetsTester
+12/01 12:53 pm pySheets.log.txt: get_DFB:  working on https://docs.google.com/spreadsheets/d/1-EAzjpHbbaD6YWt0YGE2Vu3rXRXAvQIS4mq7uxKQmCs/edit#gid=0
+12/01 12:53 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x11988aad0>
+12/01 12:53 pm pySheets.log.txt: write_DFB processing dict_keys(['Sheet1', 'Sheet2']) test.xls
+12/01 12:53 pm pySheets.log.txt: DFB_to_XL:  Wrote to test.xls
+12/01 12:53 pm pySheets.log.txt: write_DFB processing dict_keys(['Sheet1', 'Sheet2']) https://docs.google.com/spreadsheets/d/1y19PMDTSqZkpW3UcwqG81tQMAH_g91iIqjrmBN_jTRw/edit#gid=1856401945
+12/01 12:53 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x108672a90>
+12/01 12:53 pm pySheets.log.txt: DFB_to_GS: updated pySheetsTester
+12/01 12:54 pm pySheets.log.txt: abc def 12/01 12:54 pm
+12/01 12:57 pm pySheets.log.txt: abc def 12/01 12:57 pm
+12/01 01:29 pm pySheets.log.txt: abc def 12/01 01:29 pm
+12/01 01:29 pm pySheets.log.txt: DFB_to_XL:  Wrote to test.xls
+12/01 01:29 pm pySheets.log.txt: xl_to_DFB:  Reading test.xls
+12/01 01:29 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x11a0c8250>
+12/01 01:29 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x11a6b7390>
+12/01 01:29 pm pySheets.log.txt: xl_to_DFB:  Reading test.xls
+12/01 01:29 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x11ae9a910>
+12/01 01:29 pm pySheets.log.txt: DFB_to_GS: updated pySheetsTester
+12/01 01:29 pm pySheets.log.txt: get_DFB:  working on https://docs.google.com/spreadsheets/d/1-EAzjpHbbaD6YWt0YGE2Vu3rXRXAvQIS4mq7uxKQmCs/edit#gid=0
+12/01 01:29 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x11aea9210>
+12/01 01:29 pm pySheets.log.txt: write_DFB processing dict_keys(['Sheet1', 'Sheet2']) test.xls
+12/01 01:29 pm pySheets.log.txt: DFB_to_XL:  Wrote to test.xls
+12/01 01:29 pm pySheets.log.txt: write_DFB processing dict_keys(['Sheet1', 'Sheet2']) https://docs.google.com/spreadsheets/d/1y19PMDTSqZkpW3UcwqG81tQMAH_g91iIqjrmBN_jTRw/edit#gid=1856401945
+12/01 01:29 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x11b4354d0>
+12/01 01:29 pm pySheets.log.txt: DFB_to_GS: updated pySheetsTester
+12/01 07:40 pm pySheets.log.txt: get_DFB:  working on https://docs.google.com/spreadsheets/d/1ks7Ge5FJh85OlS_VVMIWO1BD1ju3R3zcAOGEPxhz1m4/edit#gid=440006482
+12/01 07:40 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x11fb7e110>
+12/01 07:40 pm pySheets.log.txt: get_DFB:  working on https://docs.google.com/spreadsheets/d/1ks7Ge5FJh85OlS_VVMIWO1BD1ju3R3zcAOGEPxhz1m4/edit#gid=440006482
+12/01 07:40 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x11fedbf90>
+12/01 07:42 pm pySheets.log.txt: write_DFB processing odict_keys(['Elements', 'Connections']) https://docs.google.com/spreadsheets/d/1ks7Ge5FJh85OlS_VVMIWO1BD1ju3R3zcAOGEPxhz1m4/edit#gid=440006482
+12/01 07:42 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x11fd5df50>
+12/01 07:43 pm pySheets.log.txt: write_DFB processing odict_keys(['Elements', 'Connections']) https://docs.google.com/spreadsheets/d/1ks7Ge5FJh85OlS_VVMIWO1BD1ju3R3zcAOGEPxhz1m4/edit#gid=440006482
+12/01 07:43 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x11faa1690>
+12/01 07:44 pm pySheets.log.txt: write_DFB processing odict_keys(['Elements', 'Connections']) https://docs.google.com/spreadsheets/d/1ks7Ge5FJh85OlS_VVMIWO1BD1ju3R3zcAOGEPxhz1m4/edit#gid=440006482
+12/01 07:44 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x11ff22ed0>
+12/01 07:44 pm pySheets.log.txt: DFB_to_GS: updated membersforkumu
+12/01 07:52 pm pySheets.log.txt: write_DFB processing odict_keys(['Elements', 'Connections']) https://docs.google.com/spreadsheets/d/1ks7Ge5FJh85OlS_VVMIWO1BD1ju3R3zcAOGEPxhz1m4/edit#gid=440006482
+12/01 07:52 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x1220dc750>
+12/01 07:52 pm pySheets.log.txt: DFB_to_GS: updated membersforkumu
+12/01 07:57 pm pySheets.log.txt: write_DFB processing odict_keys(['Elements', 'Connections']) https://docs.google.com/spreadsheets/d/1ks7Ge5FJh85OlS_VVMIWO1BD1ju3R3zcAOGEPxhz1m4/edit#gid=440006482
+12/01 07:57 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x11b9b01d0>
+12/01 07:57 pm pySheets.log.txt: DFB_to_GS: updated membersforkumu
+12/01 08:04 pm pySheets.log.txt: write_DFB processing odict_keys(['Elements', 'Connections']) https://docs.google.com/spreadsheets/d/1ks7Ge5FJh85OlS_VVMIWO1BD1ju3R3zcAOGEPxhz1m4/edit#gid=440006482
+12/01 08:04 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x104d82910>
+12/01 08:04 pm pySheets.log.txt: DFB_to_GS: updated membersforkumu
+12/02 04:37 pm pySheets.log.txt: write_DFB processing odict_keys(['Elements', 'Connections']) https://docs.google.com/spreadsheets/d/1ks7Ge5FJh85OlS_VVMIWO1BD1ju3R3zcAOGEPxhz1m4/edit#gid=440006482
+12/02 04:37 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x111a89290>
+12/02 04:37 pm pySheets.log.txt: DFB_to_GS: updated membersforkumu
+12/03 11:38 am pySheets.log.txt: abc def 12/03 11:38 am
+12/03 11:54 am pySheets.log.txt: abc def 12/03 11:54 am
+12/03 11:54 am pySheets.log.txt: abc def 12/03 11:54 am
+12/03 11:56 am pySheets.log.txt: abc def 12/03 11:56 am
+12/03 11:56 am pySheets.log.txt: abc def 12/03 11:56 am
+12/03 12:02 pm pySheets.log.txt: DFB_to_XL:  Wrote to test.xls
+12/03 12:02 pm pySheets.log.txt: xl_to_DFB:  Reading test.xls
+12/03 12:55 pm pySheets.log.txt: write_DFB processing odict_keys(['Elements', 'Connections']) https://docs.google.com/spreadsheets/d/1ks7Ge5FJh85OlS_VVMIWO1BD1ju3R3zcAOGEPxhz1m4/edit#gid=440006482
+12/03 12:55 pm pySheets.log.txt: getGoogleSheet:   <pygsheets.client.Client object at 0x11e84c310>
+12/03 12:55 pm pySheets.log.txt: DFB_to_GS: updated membersforkumu
